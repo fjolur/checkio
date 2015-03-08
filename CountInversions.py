@@ -26,7 +26,7 @@ def count_inversion(sequence):
     return sum
 
     """
-        Count inversions in a sequence of numbers
+     Count inversions in a sequence of numbers
     """
 if __name__ == '__main__':
     #These "asserts" using only for self-checking and not necessary for auto-testing
